@@ -1,5 +1,6 @@
 # Implement basic binary search using a while loop
 # Find an item in a *sorted* list of numbers and return the index or 0
+# Time complexity of O(logn)
 
 def binary_search(list, item):
   low = 0
